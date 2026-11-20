@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Stewart Ayim 👋</h1>
 <h3 align="center">Cybersecurity | Cloud Security | U.S. Army Soldier</h3>
+<p align="center"><b>🔒 Active DoD Secret Clearance</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/stewartayim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
