@@ -36,7 +36,7 @@ I'm rebuilding my portfolio from scratch, step by step, with documented commits 
 
 | Project | What it shows | Status |
 |---|---|---|
-| 🧪 **Virtual Security Lab** | Attack, detect and respond with Kali, a Windows victim and a SIEM (Splunk/Wazuh) | 🔨 In progress |
+| 🧪 **[Virtual Security Lab](https://github.com/ayimstewart/attack-detect-respond-lab)** | Attack, detect and respond with Kali, a Windows victim and a SIEM (Wazuh) | 🔨 In progress |
 | 🛡️ **API Security Monitor** | Detecting brute force, scanning and injection in API traffic, mapped to the OWASP API Top 10 | 🔨 In progress |
 | 📋 **Policy Agent** | RAG assistant for NIST 800-53 and RMF compliance | ⏳ Planned |
 | 🚦 **Rate Limiter** | Abuse and DoS protection algorithms | ⏳ Planned |
